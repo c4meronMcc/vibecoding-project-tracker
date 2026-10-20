@@ -156,7 +156,48 @@ Fill in:
 - Multi-team support.
 - Real-time collaboration.
 
-## 13. Definition of done
+## 13. Functional requirements
+#### Board & Workspace Management
+
+- The system must support the creation and management of multiple Kanban boards (allowing different boards for different projects).
+- The system must support grouping by multiple teams and organizations.
+- Boards must initialize with standard Kanban sections (e.g., To Do, In Progress, Done).
+- Users must be able to create, rename, and manage custom sections/columns.
+#### Issue/Card Management
+
+- The UI must include a prominent "+" button to add new issues.
+- Users must be able to move cards through different states.
+- Users must be able to delete issues.
+- Issue creation must include the following fields: Title, Description, Type, Status, Date Created, Due Date, Assignee, Importance, and Context (for logs, AI chats, etc.).
+- The "Context" section must include a dedicated button allowing users to easily copy its contents.
+- Cards must display small text indicating metadata, such as "last updated".
+#### Customization & UI Elements
+
+- Cards must be color-coded to visually indicate importance/priority.
+- Users must be able to customize both the priority colors and the specific words used to convey importance.
+- The top of the board page must feature 4 permanently pinned cards: Presentation, Demo, Report, and Documentation.
+- Each of the 4 pinned cards must include a URL input field for linking project assets.
+#### User Management & Roles
+
+- The system must store the following user data: Name, Email, and GitHub account.
+- Authorized users must be able to add new members to a team.
+- The system must enforce basic authorization so that only specifically assigned users can view or interact with a given Kanban board.
+
+## 14. Non-functional requirements
+#### Accessibility
+- The application must meet web accessibility standards (e.g., sufficient color contrast, keyboard navigability, and screen reader support) ensuring it is usable by everyone.
+
+#### Security
+
+- Basic security and authentication must be implemented to prevent unauthorized access to team and organizational boards.
+#### Usability & Audience
+
+- The UX must be tailored specifically for software development teams (accommodating personas from junior developers to senior engineers).
+#### Extensibility
+
+- The system architecture must be designed to accommodate future "unique features" intended to differentiate the application from competitors, even if not implemented in the prototype phase.
+
+## 15. Definition of done
 
 The hackathon is "done" when all 13 milestone tags are pushed to your repo and visible on the dashboard. The pitch is "done" when:
 

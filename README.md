@@ -31,7 +31,7 @@ npm install
 
 # 3. Run the dev server
 npm run dev
-```
+``` 
 
 Open the URL Vite prints (typically `http://localhost:5173`). You should see a placeholder page with the team starter header and "Build the four-column board here · M3" in the middle. That's expected — M3 is your first build milestone.
 
