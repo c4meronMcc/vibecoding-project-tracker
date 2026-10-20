@@ -13,16 +13,17 @@
 One sentence that captures the feeling the tracker should leave you with.
 
 `<TODO>`
+'Premium and simple.'
 
 Two or three references that capture the vibe (links to dribbble shots, screenshots of apps you admire, Pinterest boards — anything visual):
 
-- `<TODO>`
-- `<TODO>`
-- `<TODO>`
+- `https://www.morgen.so/blog-posts/linear-project-management`
+- `https://cdn.dribbble.com/userupload/49330365/file/a740aa456d1f367e2d51f397ae379355.png?resize=1600x1200&vertical=center`
+- `https://cdn.dribbble.com/userupload/17099807/file/original-55ee1e409dcfbd4b59f7ebb1cd7f507a.png?resize=752x&vertical=center`
 
 Anti-references — what we are explicitly **not** trying to look like:
 
-- `<TODO>`
+- `https://imgs.search.brave.com/g1D9v_EiLHfQxV2tdADGYdR_OkjOMMPwdHqWlPO79G0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9raWpv/LmNvLnVrL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI0LzA5L1Nj/cmVlbnNob3QtMjAy/NC0wOS0yMy1hdC0x/Ny4xOS41My0xMDI0/eDUyNi5wbmc`
 
 ## 2. Color palette
 
