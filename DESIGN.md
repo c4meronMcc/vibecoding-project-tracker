@@ -12,8 +12,8 @@
 
 One sentence that captures the feeling the tracker should leave you with.
 
-`<TODO>`
-'Premium and simple.'
+`Premium and simple.`
+
 
 Two or three references that capture the vibe (links to dribbble shots, screenshots of apps you admire, Pinterest boards — anything visual):
 
@@ -60,9 +60,9 @@ These are the colors the build milestones will reference. Once chosen, paste the
 
 | Role | Font | Why |
 |---|---|---|
-| Heading | `<TODO>` | `<TODO one sentence>` |
-| Body | `<TODO>` | `<TODO one sentence>` |
-| Monospace (tags, badges, code) | `<TODO>` | `<TODO one sentence>` |
+| Heading | `<16 pt>` | `<Following Government recommendations: https://www.communications.gov.uk/publication/accessibility-standards/>` |
+| Body | `<14 pt>` | `<Following Government recommended font: https://www.communications.gov.uk/publication/accessibility-standards/>` |
+| Monospace (tags, badges, code) | `12 pt` | `Minimum legal limit by Government: https://www.communications.gov.uk/publication/accessibility-standards/` |
 
 Suggested sizes (override only if the design demands it):
 
@@ -78,9 +78,9 @@ One short sentence per element. These set the tone for the build phase — Perso
 
 - **Cards:** `Light, almost weightless; the only weight is from a 1px border, no shadow except on hover.` (e.g. "Light, almost weightless; the only weight is from a 1px border, no shadow except on hover.")
 - **Buttons:** `Solid fill, no gradient, 1px border, no shadow, change colour on hover` (e.g. "Solid fill, no gradient, generous padding, rounded-md.")
-- **Modal:** `Centered, max-width-md, no backdrop` (e.g. "Centered, max-width-md, slate-900 backdrop at 50% opacity.")
+- **Modal:** `Centered, max-width-md, slate-900 backdrop at 50% opacity` (e.g. "Centered, max-width-md, slate-900 backdrop at 50% opacity.")
 - **Empty states:** `no border, transparent background` (e.g. "Dashed border, muted text, never sad.")
-- **Drag affordance (if used):** `<TODO>` (e.g. "None — we use a status dropdown.")
+- **Drag affordance (if used):** `allow the user to drag their issues to different parts of the board and see it hovering as they drag it over` (e.g. "None — we use a status dropdown.")
 
 ## 5. Voice / microcopy
 
